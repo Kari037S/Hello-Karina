@@ -7,7 +7,7 @@ public class Main{
 
         byte age=20;
         int phone=1234567890;
-        long phone 2=12345678900L;
+        long phone2=12345678900L;
         float pi = 3.14F;
         char letter = 'a';
         boolean isAdult = true;
